@@ -227,7 +227,7 @@ const Modal = ({onClose, videoData, aoVideoCadastrado }) => {
                  alt='Icone fechar' 
                  type='button'   
                  onClick={(event) => {
-                     event.preventDefault(); // Impede o scroll da página
+                     event.preventDefault(); 
                       fecharModal();
                    }}
                />

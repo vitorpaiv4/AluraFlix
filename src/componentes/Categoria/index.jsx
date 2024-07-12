@@ -56,7 +56,7 @@ const CaixaCard = styled.div`
 `
 
 export const aoDeletar = (videoId) => {
-    setVideos(videos.filter(video => video.id !== videoId)); // Remove o vídeo da lista
+    setVideos(videos.filter(video => video.id !== videoId)); 
 }
 
 const Categoria = (props) => {
