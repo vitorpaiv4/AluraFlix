@@ -1,7 +1,6 @@
 
 import styled from "styled-components";
 
-
 const ConteudoContainer = styled.section`
     min-height:100vh;
     flex-grow: 1;

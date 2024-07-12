@@ -18,7 +18,7 @@ min-height: 100vh;
 `
 export const categorias = [
   {
-    nome: 'FRONT END',
+    nome: 'FRONT-END',
     corNome: 'var(--azulClaro)',
     corBorda: 'var(--azulClaro)',
     corSombra: 'var(--azulClaro)',
@@ -27,7 +27,7 @@ export const categorias = [
 
   },
   {
-    nome: 'BACK END',
+    nome: 'BACK-END',
     corNome: 'var(--cinzaEscuro)',
     corBorda: 'var(--cinzaEscuro)',
     corSombra: 'var(--cinzaEscuro)',

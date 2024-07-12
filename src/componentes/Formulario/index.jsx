@@ -162,6 +162,7 @@ const Formulario = ( props) => {
                     />
                 </ CampoTextoEstilizados>
             </form>
+            
                 <BotoesEstilizadosContainer >
                     <button type="submit" onClick={aoSalvar}>GUARDAR</button> 
                     <button type="button" onClick={limparFormulario}>LIMPAR</button>
